@@ -4,6 +4,10 @@
 - 💞️ I’m looking to collaborate on ............
 - 📫 How to reach me bangsomesh060801@gmail.com
 
+
+
+![](https://komarev.com/ghpvc/?username=SomeshBaang)
+
 <!---
 SomeshBang/SomeshBang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
