@@ -1,4 +1,4 @@
-## <img height="32" src="Python/2019-GifsInEmail.gif">
+## <img height="32" src=https://github.com/SomeshBang/Python/blob/main/2019-GifsInEmail.gif">
 
 ###
 
