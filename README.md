@@ -1,7 +1,7 @@
 <h1>Hey there...!!!🙋‍♂️</h1>
 
 <strong>Basic into about me:- </strong>
-- I am <em>Somesh Bang</em> from Dhule, Maharashtra in India , I am student of BCA(Bachelor of computer Application) in North Maharashtra University. I am passionate about Programming and Trading , with this I am learning some latest technologies like AI, ML & Cybersecurity.
+- I am <strong><em>Somesh Bang</em><strong> from Dhule, Maharashtra in India , I am student of BCA(Bachelor of computer Application) in North Maharashtra University. I am passionate about Programming and Trading , with this I am learning some latest technologies like AI, ML & Cybersecurity.
 - In free time , I like to do Trading , Travelling & Freelancing.
 
 
