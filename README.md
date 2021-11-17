@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ............
 - 📫 How to reach me bangsomesh060801@gmail.com
 
+:wave:
+:grinning:
 
 
 ![](https://komarev.com/ghpvc/?username=SomeshBaang)
