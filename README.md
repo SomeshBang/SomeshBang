@@ -18,7 +18,7 @@
 <span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/visual-studio-code-seeklogo.com.svg" /></span>
 
 
-<br><br><br>
+<br>
 
 <h3>📫 Message On:-</h3>
 <div>
