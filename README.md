@@ -1,7 +1,3 @@
-## <img height="32" src=https://github.com/SomeshBang/Python/blob/main/2019-GifsInEmail.gif">
-
-###
-
 
 - 👋 Hi, I’m @SomeshBang
 - 👀 I’m interested in Coding , Travelling & Trading
