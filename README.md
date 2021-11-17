@@ -41,7 +41,7 @@ You can click the Preview link to take a look at your changes.
 --->
 
 
-![](https://komarev.com/ghpvc/?username=SomeshBaang)
+![](https://komarev.com/ghpvc/?username=SomeshBang)
 
 <h1></h1>
 <h1><b>🙏Thank You👋</b></h1>
