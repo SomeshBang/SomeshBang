@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on ............
 - 📫 How to reach me bangsomesh060801@gmail.com
 
-![](src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.emailonacid.com%2Fblog%2Farticle%2Femail-marketing%2Fnew-ideas-for-using-animated-gifs-in-email%2F&psig=AOvVaw1ZrE-NAxoUOWy2z5MHkfoM&ust=1637250138334000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD-8Z3en_QCFQAAAAAdAAAAABAJ")
+![]("https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.emailonacid.com%2Fblog%2Farticle%2Femail-marketing%2Fnew-ideas-for-using-animated-gifs-in-email%2F&psig=AOvVaw1ZrE-NAxoUOWy2z5MHkfoM&ust=1637250138334000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCPD-8Z3en_QCFQAAAAAdAAAAABAJ")
 
 
 ![](https://komarev.com/ghpvc/?username=SomeshBaang)
