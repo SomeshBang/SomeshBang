@@ -6,7 +6,7 @@
 
 
 
-![](https://komarev.com/ghpvc/?username=SomeshBaang&color=bluevoilet)
+![](https://komarev.com/ghpvc/?username=SomeshBaang)
 
 <!---
 SomeshBang/SomeshBang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
