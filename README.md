@@ -6,16 +6,16 @@
 
 
 <h3>🛠 Tech Stack :- </h3>
-<span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/c.svg" /></span>
-<span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/c%2B%2B.svg" /></span>
-<span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/Python.svg" /></span>
-<span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/django.svg" /></span>
-<span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/javascript.svg" /></span>
-<span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/html.svg" /></span>
-<span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/css.svg" /></span>
-<span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/figma.svg" /></span>
-<span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/java.svg" /></span>
-<span><img height="35" src="https://github.com/SomeshBang/SomeshBang/blob/main/visual-studio-code-seeklogo.com.svg" /></span>
+<span><img height="40" src="https://github.com/SomeshBang/SomeshBang/blob/main/c.svg" /></span>
+<span><img height="40" src="https://github.com/SomeshBang/SomeshBang/blob/main/c%2B%2B.svg" /></span>
+<span><img height="40" src="https://github.com/SomeshBang/SomeshBang/blob/main/Python.svg" /></span>
+<span><img height="40" src="https://github.com/SomeshBang/SomeshBang/blob/main/django.svg" /></span>
+<span><img height="40" src="https://github.com/SomeshBang/SomeshBang/blob/main/javascript.svg" /></span>
+<span><img height="40" src="https://github.com/SomeshBang/SomeshBang/blob/main/html.svg" /></span>
+<span><img height="40" src="https://github.com/SomeshBang/SomeshBang/blob/main/css.svg" /></span>
+<span><img height="40" src="https://github.com/SomeshBang/SomeshBang/blob/main/figma.svg" /></span>
+<span><img height="40" src="https://github.com/SomeshBang/SomeshBang/blob/main/java.svg" /></span>
+<span><img height="40" src="https://github.com/SomeshBang/SomeshBang/blob/main/visual-studio-code-seeklogo.com.svg" /></span>
 
 
 <br>
